@@ -11,7 +11,7 @@ body {
     color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
     font-size: 12pt;
-    background-color: rgb(39, 46, 54);
+    background-color: #fff;
     text-align: start;
 }
 
@@ -40,47 +40,7 @@ a {
     color: #aab !important
   }
 
-  .btn-primary {
-    color: #000;
-    background-color: #fff;
-    border-color: #000
-  }
-  
-  .btn-primary:hover {
-    color: #fff;
-    background-color: #000;
-    border-color: #000
-  }
-  
-  .btn-dark {
-    color: #000;
-    background-color: #fff;
-    border-color: #000
-  }
-  
-  .btn-dark:hover {
-    color: #fff;
-    background-color: #000;
-    border-color: #fff
-  }
 
-
-  .btn-link {
-    color: rgb(138, 138, 138);
-    font-size: 10pt;
-
-  }
-  
-  .btn-link:hover {
-    color: #000;
-    font-size: 10pt;
-  }
-
-
-  /*input[type="checkbox"] { 
-    filter: invert(100%) hue-rotate(18deg) brightness(1.7);
-  }
-  */
 
   .input[type='checkbox']{
     width: 10px !important;
